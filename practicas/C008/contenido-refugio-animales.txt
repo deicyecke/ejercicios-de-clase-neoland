@@ -1,0 +1,26 @@
+HUELLAS DEL SUR — JORNADA DE ADOPCIÓN
+
+Navegación principal:
+- Inicio (index.html)
+- Animales (animales.html)
+- Contacto (contacto.html)
+
+Contenido de la página:
+- Título: Jornada de adopción responsable
+- Introducción: Conocé a los animales, conversá con el equipo y prepará tu hogar antes de adoptar.
+
+Bloque “Antes de venir”:
+- Traé documento de identidad.
+- Conversá con quienes viven en tu hogar.
+- Considerá tiempos, espacio y gastos de cuidado.
+
+Bloque “Horarios”:
+- Sábado 24, de 11:00 a 17:00.
+- Plaza del Encuentro, sector cubierto.
+
+Contacto de la organización:
+- Huellas del Sur
+- Correo: adopciones@huellas.example
+- Teléfono: +54 11 5555 0182
+
+No agregar formularios, tablas, CSS, JavaScript ni datos reales.

@@ -1,0 +1,35 @@
+SITIO
+Red del Pasaje
+
+NAVEGACIÓN
+Inicio — index.html
+Boletín — boletin.html
+Contacto — contacto.html
+
+TÍTULO DE PÁGINA
+Noticias del Pasaje Norte
+
+INTRODUCCIÓN
+Tres iniciativas vecinales comparten sus avances de octubre.
+
+NOTICIA 1
+Título: La huerta sumó un sector de aromáticas
+Resumen: Vecinas y vecinos incorporaron romero, menta y lavanda en un cantero recuperado.
+Dato: La próxima jornada de cuidado será el 9 de noviembre a las 10.
+
+NOTICIA 2
+Título: El club de lectura abrió una nueva convocatoria
+Resumen: La biblioteca barrial recibirá inscripciones individuales para el ciclo de cuentos breves.
+Dato: La primera reunión será el 14 de noviembre a las 18.
+
+NOTICIA 3
+Título: Repararon los bancos de la plazoleta
+Resumen: El grupo de mantenimiento terminó la reparación de cuatro bancos de madera.
+Dato: Todavía falta pintar dos respaldos.
+
+COMPLEMENTO
+Título: Sobre este boletín
+Texto: Las noticias describen situaciones ficticias creadas para practicar HTML.
+
+PIE
+Red del Pasaje — contenido ficticio de práctica.

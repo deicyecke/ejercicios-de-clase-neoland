@@ -1,0 +1,34 @@
+RECORTE 1 — Avisos del centro cultural
+
+Tema compartido: Actividades de noviembre
+
+Título: Taller de cerámica inicial
+Descripción: Cuatro encuentros para conocer materiales y técnicas básicas.
+Fecha: 12 de noviembre
+
+Título: Cine al aire libre
+Descripción: Proyección gratuita de una película familiar en el patio.
+Fecha: 15 de noviembre
+
+---
+
+RECORTE 2 — Horario de una biblioteca
+
+Texto principal: La biblioteca abre de lunes a viernes de 9 a 18.
+Dato relacionado: El sábado 16 habrá una narración de cuentos a las 11.
+
+---
+
+RECORTE 3 — Datos de contacto
+
+Nombre: Ana Torres
+Correo: ana.torres@example.com
+Necesidad: mantener ambos datos juntos para completar una inscripción futura.
+
+---
+
+RECORTE 4 — Pasos para reservar una visita
+
+Paso 1: Elegí un día disponible.
+Paso 2: Completá tus datos.
+Paso 3: Confirmá el turno.
