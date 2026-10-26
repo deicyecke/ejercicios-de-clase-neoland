@@ -1,0 +1,36 @@
+CASOS PARA ELEGIR UNA REPRESENTACIÓN
+
+Todo el contenido es ficticio.
+
+CASO 1 — Horarios de talleres
+
+Taller | Día | Hora | Sala
+Fotografía inicial | Lunes | 18:00 | Sala Norte
+Encuadernación | Miércoles | 19:00 | Sala Taller
+Radio abierta | Viernes | 17:30 | Estudio 2
+
+CASO 2 — Pasos para retirar una entrada
+
+1. Elegí una función.
+2. Completá tus datos.
+3. Confirmá la reserva.
+4. Presentá el código al ingresar.
+
+CASO 3 — Contactos de sedes
+
+Sede | Barrio | Teléfono
+Centro | San Martín | 555-0101
+Ribera | Puerto Norte | 555-0102
+Parque | Los Aromos | 555-0103
+
+CASO 4 — Recomendaciones para la visita
+
+- Llegá diez minutos antes.
+- Llevá una botella reutilizable.
+- Consultá por accesibilidad al reservar.
+
+Preguntas de análisis:
+
+1. ¿En qué casos se comparan varias entidades mediante los mismos campos?
+2. ¿En qué casos el orden o la pertenencia a una lista es más importante que cruzar filas y columnas?
+3. Si ocultaras los rótulos de la primera línea, ¿qué datos perderían significado?

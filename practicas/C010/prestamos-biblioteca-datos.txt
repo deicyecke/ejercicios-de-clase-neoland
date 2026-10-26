@@ -1,0 +1,11 @@
+PRÉSTAMOS DE LA BIBLIOTECA DEL FARO
+
+Todos los títulos, códigos y estados son ficticios.
+
+Título | Código | Plazo | Estado
+El mapa de las nubes | NUB-104 | 14 días | Disponible
+Manual de huerta urbana | HUE-218 | 7 días | Prestado
+Historias del puerto | PUE-330 | 21 días | Disponible
+Atlas de aves vecinas | AVE-412 | 14 días | En reparación
+
+Título visible de la tabla: Condiciones de préstamo por título
