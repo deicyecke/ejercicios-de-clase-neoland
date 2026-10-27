@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Buscar libros</h1>
+    <ul>
+        <li>Rutas del sur-Ana Vega</li>
+        <li>Historias del río- Leo Paz</li>
+    </ul>
+
+    <form>
+        <div>
+        <label for="busqueda">Término de búsqueda:</label>
+        <input type="text" id="busqueda" name="busqueda">
+        </div>
+        <div>
+        <label for="autor">Autor:</label>
+        <input type="text" id="autor" name="autor">
+        <input type="button" value="Probar búsqueda">
+    </div>
+        <div>
+            <label for="codigo">Código de libro:</label>
+            <input type="text" id="codigo" name="codigo" pattern="[A-Z]{3}-[0-9]{3}" title="El código debe tener el formato ABC-123">
+
+        </div>
+        <button type="submit">Buscar</button>
+    </form>
+</body>
+</html>
