@@ -1,0 +1,41 @@
+body {
+  background-color: #fff8e7;
+   
+}
+  h1 {
+    color: #173b61;
+    
+}
+.aviso {
+    background-color: #ffedaa;
+    
+}
+h2 {
+    color: #7d0096;
+    
+}
+#horarios {
+    background-color: #f0f0f0;
+    text-decoration: underline;
+    
+}
+nav a {
+    color: #173b61;
+    
+}
+article p {
+    font-style: italic;
+    
+}
+button {
+    background-color: #173b61;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+}
+.libro {
+    font-weight: bold;
+    
+}
