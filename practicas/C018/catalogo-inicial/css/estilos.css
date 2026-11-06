@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 16px;
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #173b61;
+  background-color: #fff8e7;
+}
+
+h1 {
+  font-size: 2rem;
+margin: 0 0 12px;
+}
+
+h2 {
+  font-size: 1.5rem;
+
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+a {
+  color: #173b61;
+}
+
+/* Agregá debajo las reglas que construyas durante la clase. */
+.aviso {
+  background-color: #ffedaa;
+  padding: 1rem;
+  border:solid 2px #173b61;
+  margin: 0 0 24px;
+}
+.aviso h2 {
+  margin: 0 0 12px;
+}
+.aviso p {
+  margin: 0 0 12px;
+}
+.tarjeta {
+  background-color: #fff;
+  border: solid 2px #173b61;
+  padding: 16px;
+  margin: 16px;
+  width: 100%;
+  max-width: 560px;
+  min-height: 240px;
+}
+.tarjeta h3, .tarjeta p {
+  margin-top: 0;
+  margin-bottom: 12px;
+  max-width: 34rem;
+  
+}
+.tarjeta .horarios {
+  font-weight: 700;
+}
+.seccion {
+  margin: 16px;
+  padding: 20px;
+  border: solid 1px #173b61;
+  margin: 0 0 24px
+}
+.prestamo {   
+  background-color: #ffedaa;
+  border: solid 2px #173b61;
+  padding: 16px;
+  margin: 16px;
+  box-sizing: border-box;
+  max-width: 400px;
+  width: 100%;
+  min-width: 100px;
+  overflow: hidden;
+}
+#inscripcion {
+  border: solid 2px #173b61;
+  padding: 16px;
+  margin: 16px;
+}
+
+.nota {
+  border: solid 2px #173b61;
+  background-color: #eef114;
+  padding: 16px;
+  margin:16px;
+}
+footer {
+  border-top: solid 2px #173b61;
+  padding: 16px;
+  margin: 0 0 16px;
+}
+footer p {
+  margin: 0;
+}
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 16px;
+}
